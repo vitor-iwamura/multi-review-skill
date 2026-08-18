@@ -1,0 +1,6 @@
+interface:
+  display_name: "Caveman Review"
+  short_description: "One-line review comments: problem and fix"
+  default_prompt: "Use $caveman-review to format these findings as terse PR comments."
+policy:
+  allow_implicit_invocation: false

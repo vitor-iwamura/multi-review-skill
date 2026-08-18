@@ -1,0 +1,6 @@
+interface:
+  display_name: "Review"
+  short_description: "Fast single-pass actionable code review"
+  default_prompt: "Use $review to run a fast review of the current changes."
+policy:
+  allow_implicit_invocation: false

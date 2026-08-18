@@ -1,0 +1,6 @@
+interface:
+  display_name: "Requesting Code Review"
+  short_description: "Review completed work against its plan"
+  default_prompt: "Use $requesting-code-review to review this completed work against its requirements."
+policy:
+  allow_implicit_invocation: false

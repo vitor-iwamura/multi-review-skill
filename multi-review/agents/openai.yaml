@@ -1,0 +1,4 @@
+interface:
+  display_name: "Multi Review"
+  short_description: "Run five ported reviews and merge findings"
+  default_prompt: "Use $multi-review to review the current pull request."

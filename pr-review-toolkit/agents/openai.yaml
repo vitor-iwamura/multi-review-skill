@@ -1,0 +1,6 @@
+interface:
+  display_name: "PR Review Toolkit"
+  short_description: "Six specialist pull-request review lenses"
+  default_prompt: "Use $pr-review-toolkit to review all applicable aspects of this pull request."
+policy:
+  allow_implicit_invocation: false

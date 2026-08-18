@@ -1,0 +1,6 @@
+interface:
+  display_name: "Code Review"
+  short_description: "High-confidence historical multi-pass review"
+  default_prompt: "Use $code-review to run a high-confidence review of this pull request."
+policy:
+  allow_implicit_invocation: false
